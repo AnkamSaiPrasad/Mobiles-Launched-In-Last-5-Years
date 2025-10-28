@@ -1,6 +1,8 @@
 # Mobiles-Launched-In-Last-5-Years (2021-2025)
 This project visualizes the trends and insights of mobile phone launches over the past five years, showcasing key metrics such as launch count, pricing, battery capacity, and RAM offered by top smartphone brands across multiple countries.
 
+---
+
 ## 📊 Dashboard Overview
 
 The **Power BI dashboard** visualizes:
