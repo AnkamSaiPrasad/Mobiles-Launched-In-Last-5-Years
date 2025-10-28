@@ -32,13 +32,53 @@ The **Power BI dashboard** visualizes:
 
 ## 🛠️ Tools & Technologies Used
 
-| Tool | Purpose |
-|------|----------|
-| **Power BI** | Data visualization & dashboard development |
-| **Power Query** | Data cleaning and transformation |
-| **Excel / CSV** | Dataset preparation and structuring |
+Tools 
+**Power BI** : Used for Data visualization & dashboard development.
+**Power Query** : Used for Data cleaning and transformation.
+**Excel / CSV** : Used for Dataset preparation and structuring.
 
 ---
 
-## 📂 Project Structure
+## 🚀 How to Use the Dashboard
+
+1. Clone this repository  
+2. Open the `.pbix` file using **Power BI Desktop**
+3. Explore the interactive visualizations and filters
+4. Modify or enhance as needed for further analysis
+
+---
+
+## 🧩 Future Enhancements
+
+- Add forecast for 2026–2028 launches
+- Introduce brand-wise revenue and sales analytics
+- Include interactive drill-down report pages
+- Develop a web-based version using Power BI Embedded
+
+---
+
+## 📎 Screenshot
+<img width="1172" height="668" alt="Screenshot 2025-10-28 183218" src="https://github.com/user-attachments/assets/a7b84296-4726-4efd-b2a1-7fc6976da6e7" />
+
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to **fork** this repository and submit a pull request with improvements.
+
+---
+
+## 📧 Contact
+
+For queries, feedback, or collaborations:  
+**Name :** Sai Prasad Ankam
+**Email :** ankamsaiprasad13@gmail.com
+
+---
+
+⭐ If you found this project helpful, don’t forget to **star** this repository!
+
+
 
