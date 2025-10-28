@@ -5,16 +5,16 @@ This project visualizes the trends and insights of mobile phone launches over th
 
 The **Power BI dashboard** visualizes:
 
-### ** Launch Trends**
+### **Launch Trends**
 - Number of mobiles launched each year from 2021 to 2025
 - Comparison of total mobiles launched by top companies (e.g., Samsung, Oppo, Xiaomi, Apple, etc.)
 
-### ** Pricing & Market Analysis**
+### **Pricing & Market Analysis**
 - Average mobile cost in five countries: **India, USA, China, Pakistan, and Dubai**
 - Minimum and maximum cost of mobile phones in each country
 - Price distribution comparison across brands
 
-### ** Specifications Comparison**
+### **Specifications Comparison**
 - **Max Battery Capacity (mAh)** offered by leading smartphone brands
 - **Max RAM (GB)** provided by each company
 - Feature evolution trend over 5 years
